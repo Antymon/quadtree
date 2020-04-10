@@ -1,4 +1,4 @@
-### QuadTree implementation in C
+## QuadTree implementation in C
 
 This code was originally authored by a Stackoverflow user `dragon-energy` (referred to as the author) and posted under following page:
 https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det
@@ -11,7 +11,7 @@ Minor modifications include:
 - a header addition,
 - a bug fix as mentioned by myself in the very same question page linked above.
  
-###License
+## License
  
 As for the license, I follow whatever terms original source implies. As the author has kindly noted:
 
